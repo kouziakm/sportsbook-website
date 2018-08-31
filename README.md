@@ -1,5 +1,4 @@
-# sportsbook-website
-
+# sportsbook
 Basic sportsbook functionality in Node and React
 
 Since this is just a working example, information on upcoming matches is not updated continuously but rather the games from the same match-day are always shown.
